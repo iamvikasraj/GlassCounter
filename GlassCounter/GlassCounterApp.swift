@@ -11,7 +11,7 @@ import SwiftUI
 struct GlassCounterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GlassButton()
         }
     }
 }
